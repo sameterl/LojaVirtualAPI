@@ -1,0 +1,62 @@
+﻿# Build results
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Dotnet
+*.db
+*.pdb
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# ASP.NET Temporary files
+App_Data/
+
+# Visual Studio Code workspace
+.vscode/
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Publish outputs
+publish/
+
+# NPM packages (if any)
+node_modules/
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Visual Studio cache files
+*.cache
+*.vs/
+
+# Rider local history
+.localhistory/
+
+# JetBrains Rider
+.idea/
+
+# dotenv files
+.env
+.env.local
+
+# Secrets
+secrets.json

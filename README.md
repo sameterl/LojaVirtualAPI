@@ -6,11 +6,11 @@ API RESTful desenvolvida em ASP.NET Core para gerenciamento de uma loja virtual,
 
 ## Tecnologias utilizadas
 
-- .NET 7 (ou versão que estiver usando)
-- Entity Framework Core (Code First)
+- .NET 9
+- Entity Framework Core 
 - JWT Authentication
 - Swagger para documentação e testes
-- SQL Server (local ou Azure)
+- SQL Server 
 - C#
 
 ---

